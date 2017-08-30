@@ -1,0 +1,72 @@
+0000.096 () Opened log file at time: Mon, 07 Aug 2017 18:44:29 +0000 on http://localhost:8000
+0000.097 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.13.4 WP: 4.8.1 PHP: 7.1.6 (apache2handler, Darwin MacBook-Pro-4.local 16.6.0 Darwin Kernel Version 16.6.0: Fri Apr 14 16:21:16 PDT 2017; root:xnu-3789.60.24~6/RELEASE_X86_64 x86_64) MySQL: 5.6.35 WPLANG: en_GB Server: Apache/2.2.32 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.1.6 mod_ssl/2.2.32 OpenSSL/1.0.2j DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.24.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 23.4M | 2M) multisite: N openssl: OpenSSL 1.0.2j  26 Sep 2016 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.097 () Free space on disk containing Updraft's temporary directory: 472515.8 MB
+0000.099 () Restore job started. Entities to restore: db. Restore options: {"updraft_restorer_replacesiteurl":false,"updraft_encryptionphrase":"","updraft_restorer_wpcore_includewpconfig":false}
+0000.168 () Entity: db
+0000.168 () restore_backup(backup_file=backup_2017-07-25-1509_Gaa_5fe079202ab0-db.gz, type=db, info=a:0:{}, last_one=1)
+0000.168 () Unpacking backup... (backup_2017-07-25-1509_Gaa_5fe079202ab0-db.gz, 0.3 Mb)
+0000.172 () Database successfully unpacked
+0000.173 () Restoring the database (on a large site this can take a long time - if it times out (which can happen if your web hosting company has configured your hosting to limit resources) then you should use a different method, such as phpMyAdmin)...
+0000.173 () Using direct MySQL access; value of use_mysqli is: 1
+0000.220 () Max packet size: 32 MB
+0000.221 () Entering maintenance mode
+0000.221 () Enabling Maintenance mode&#8230;
+0000.224 () Backup of: https://gaa.aibgetactive.com
+0000.268 () Content URL: https://gaa.aibgetactive.com/wp-content
+0000.268 () Uploads URL: https://gaa.aibgetactive.com/wp-content/uploads
+0000.268 () Old table prefix: wp_
+0000.268 () Site information: multisite=1
+0000.272 () New table prefix: wp_
+0000.311 () Processing table (InnoDB): wp_options
+0000.508 () Restoring prior UD configuration (table: wp_options; keys: 89)
+0000.893 () Processing table (InnoDB): wp_site
+0000.909 () Processing table (InnoDB): wp_blogs
+0000.930 () Processing table (InnoDB): wp_users
+0000.957 () Processing table (InnoDB): wp_usermeta
+0000.980 () Processing table (InnoDB): wp_blog_versions
+0001.059 () Processing table (InnoDB): wp_commentmeta
+0001.097 () Processing table (InnoDB): wp_comments
+0001.143 () Processing table (InnoDB): wp_links
+0001.159 () Processing table (InnoDB): wp_postmeta
+0001.468 () Processing table (InnoDB): wp_posts
+0001.582 () Processing table (InnoDB): wp_registration_log
+0001.600 () Processing table (InnoDB): wp_signups
+0001.619 () Processing table (InnoDB): wp_sitemeta
+0001.655 () Processing table (InnoDB): wp_term_relationships
+0001.677 () Database queries processed: 50 in 1.50 seconds
+0001.677 () Processing table (InnoDB): wp_term_taxonomy
+0001.700 () Processing table (InnoDB): wp_termmeta
+0001.724 () Processing table (InnoDB): wp_terms
+0001.751 () Processing table (InnoDB): wp_woocommerce_order_itemmeta
+0001.765 () Processing table (InnoDB): wp_woocommerce_payment_tokenmeta
+0001.776 () Processing table (InnoDB): wp_masterslider_options
+0001.802 () Processing table (InnoDB): wp_masterslider_sliders
+0001.820 () Processing table (InnoDB): wp_updraftcentral_site_temporary_keys
+0001.834 () Processing table (InnoDB): wp_updraftcentral_sitemeta
+0001.852 () Processing table (InnoDB): wp_updraftcentral_sites
+0001.865 () Processing table (InnoDB): wp_woocommerce_api_keys
+0001.877 () Processing table (InnoDB): wp_woocommerce_attribute_taxonomies
+0001.893 () Processing table (InnoDB): wp_woocommerce_downloadable_product_permissions
+0001.912 () Processing table (InnoDB): wp_woocommerce_log
+0001.923 () Processing table (InnoDB): wp_woocommerce_order_items
+0001.936 () Processing table (InnoDB): wp_woocommerce_payment_tokens
+0001.951 () Processing table (InnoDB): wp_woocommerce_sessions
+0001.968 () Processing table (InnoDB): wp_woocommerce_shipping_zone_locations
+0001.981 () Processing table (InnoDB): wp_woocommerce_shipping_zone_methods
+0001.997 () Database queries processed: 100 in 1.82 seconds
+0001.997 () Processing table (InnoDB): wp_woocommerce_shipping_zones
+0002.010 () Processing table (InnoDB): wp_woocommerce_tax_rate_locations
+0002.026 () Processing table (InnoDB): wp_woocommerce_tax_rates
+0002.051 () Processing table (InnoDB): wp_wpgmza
+0002.067 () Processing table (InnoDB): wp_wpgmza_categories
+0002.079 () Processing table (InnoDB): wp_wpgmza_category_maps
+0002.095 () Processing table (InnoDB): wp_wpgmza_maps
+0002.112 () Processing table (InnoDB): wp_wpgmza_polygon
+0002.124 () Processing table (InnoDB): wp_wpgmza_polylines
+0002.135 () Unlocking database and leaving maintenance mode
+0002.135 () Disabling Maintenance mode&#8230;
+0002.135 () Finished: lines processed: 124 in 1.96 seconds
+0002.135 () Cleaning up rubbish...
+0002.165 () The current theme was not found; to prevent this stopping the site from loading, your theme has been reverted to the default theme
+0002.166 () Restore successful!
+0002.166 () Restore successful

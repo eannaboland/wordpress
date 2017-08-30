@@ -1,0 +1,8 @@
+ File has been used for this event: fixture_and_result test.csv
+ Type of the imported file: csv
+ Revision of the which is used: 7
+ Mode of event: Insert
+ Total no of records: 1
+ Rows handled on each iterations (Based on your server configuration): 1
+ File used to import data into: fixture_and_result (fixture_and_result)
+[2017-08-17 12:11:21] Message: Inserted fixture_and_result ID: 3817,  Status: publish  Click here to verify - Web View | Admin View 

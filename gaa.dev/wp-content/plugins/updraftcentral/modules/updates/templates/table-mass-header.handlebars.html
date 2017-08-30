@@ -1,0 +1,70 @@
+<div class="updates_table_container mass_updates">
+	<h4>{{udclion.updates.updates}}</h4>
+	<div class="row filter-section">
+		<div class="col-md-4 col-sm-12 col-xs-12">
+			<div class="sort-elements">
+				<div class="row">
+					<div class="col-md-7 col-sm-12">
+						<select name="uc_updates_sort" class="uc_updates_sort">
+							<option value="name_asc">{{udclion.updates.sort_by_name_asc}}</option>
+							<option value="name_desc">{{udclion.updates.sort_by_name_desc}}</option>
+							<option value="installed_version_asc">{{udclion.updates.sort_by_version_asc}}</option>
+							<option value="installed_version_desc">{{udclion.updates.sort_by_version_desc}}</option>
+							<option value="website_asc">{{udclion.updates.sort_by_website_asc}}</option>
+							<option value="website_desc">{{udclion.updates.sort_by_website_desc}}</option>
+							<option value="entity_asc">{{udclion.updates.sort_by_entity_asc}}</option>
+							<option value="entity_desc">{{udclion.updates.sort_by_entity_desc}}</option>
+						</select>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-8 col-sm-12 col-xs-12">
+			<div class="filter-elements">
+				<div class="row">
+					<div class="col-md-3 filter_type">
+						<input type="checkbox" id="filter_plugin" name="filter_plugin" class="uc_updates_filter_type" value="plugin" checked> <label for="filter_plugin" class="filter_spacer">{{udclion.updates.plugins}} (<span class="filter_plugin_count">0</span>)</label> 
+					</div>
+					<div class="col-md-3 filter_type">
+						<input type="checkbox" id="filter_theme" name="filter_theme" class="uc_updates_filter_type" value="theme" checked> <label for="filter_theme" class="filter_spacer">{{udclion.updates.themes}} (<span class="filter_theme_count">0</span>)</label> 
+					</div>
+					<div class="col-md-6 filter_type">
+						<input type="checkbox" id="filter_core" name="filter_core" class="uc_updates_filter_type" value="core" checked> <label for="filter_core">{{udclion.updates.wordpress_core}} (<span class="filter_core_count">0</span>)</label>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="row">
+		<div class="col-md-12 filter-by-keyword-container">
+			<input type="text" name="uc_updates_filter_keyword" value="" placeholder="{{udclion.updates.filter_by_keyword}}" />
+		</div>
+	</div>
+	
+	<div class="row">
+		<div class="col-md-12">
+			<div class="uc_updates_buttons">
+				<button id="btn-mass-update" class="btn btn-primary disabled"><span class="dashicons dashicons-controls-play"></span> {{udclion.updates.process}} {{udclion.updates.queued_update}} (0)</button>
+				<div id="btn-reload-updates"><span class="dashicons dashicons-image-rotate"></span></div>
+			</div>
+		</div>
+	</div>
+	<div class="row progress-section">
+		<div class="col-md-12 progress-bar"></div>
+	</div>
+	<div class="row">
+		<div class="col-md-12 updraftcentral_table">
+			<div class="row thead">
+				<div class="col-md-1 col-sm-1 col-xs-2 chk-col"><input type="checkbox" name="uc_updates_check_all" value="1" /></div>
+				<div class="col-md-11 col-sm-11 col-xs-10">
+					<div class="col-md-6 col-sm-5 col-xs-4 remove-pad-left"></div>
+					<div class="col-md-6 col-sm-7 col-xs-8 remove-pad-right">
+						<span class="uc_updates_paginator"></span>
+					</div>
+				</div>
+			</div>
+			<div class="tbody"></div>
+		</div>
+	</div>
+</div>

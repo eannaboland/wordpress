@@ -1,0 +1,1 @@
+a:1:{s:32:"2cf462c6275488094d7b2b9830e9f107";a:1:{s:11:"import_file";a:8:{s:11:"import_mode";s:9:"new_items";s:8:"posttype";s:5:"Posts";s:13:"uploaded_name";s:9:"AHL 2.csv";s:9:"file_name";s:11:"AHL 2-1.csv";s:14:"file_extension";s:3:"csv";s:13:"import_method";s:7:"desktop";s:12:"file_version";s:1:"1";s:10:"upload_max";s:3:"32M";}}}

@@ -1,0 +1,97 @@
+#fixture-result-option{ background: transparent; box-shadow: none; border: 0px; }
+#fixture-result-option .hndle, #course-option .handlediv { display: none; }
+#fixture-result-option .inside{ padding: 0px; } 
+#fixture-result-option .gdlr-lms-meta-option.gdlr-lms-left { margin-right: 2%; float: left; }
+#fixture-result-option .gdlr-lms-meta-option.gdlr-lms-right{ overflow: hidden; }
+
+#league-table-option{ background: transparent; box-shadow: none; border: 0px; }
+#league-table-option .hndle, #quiz-option .handlediv { display: none; }
+#league-table-option .inside{ padding: 0px; } 
+.gdlr-lms-meta-inner.gdlr-left { width: 46%; padding-right: 2%; 
+	border-right: 1px solid #ddd; float: left; margin-right: 2%; }
+.gdlr-lms-meta-inner.gdlr-right { overflow: hidden; padding-left: 2%; }
+
+#player-option{ background: transparent; box-shadow: none; border: 0px; }
+#player-option .hndle, #course-option .handlediv { display: none; }
+#player-option .inside{ padding: 0px; } 
+
+.hidden{ display: none; }
+
+.gdlr-lms-meta-wrapper{ padding: 30px 26px; margin-bottom: 25px; 
+	background: #fff; color: #8f8f8f;
+	box-shadow: 0px 0px 3px rgba(0,0,0,0.15); 
+	-moz-box-shadow: 0px 0px 3px rgba(0,0,0,0.15);
+	-webkit-box-shadow: 0px 0px 3px rgba(0,0,0,0.15); }
+.gdlr-lms-meta-wrapper > textarea{ display: none; }
+#poststuff .gdlr-lms-meta-wrapper h3 { font-size: 18px; font-weight: bold; padding: 0px; 
+	line-height: 1; border: 0px; margin-bottom: 30px; cursor: default; }
+	
+.gdlr-lms-meta-option{ margin-bottom: 15px; }
+.gdlr-lms-meta-title{ margin-right: 15px; vertical-align: middle; }
+.gdlr-lms-meta-description{ font-size: 12px; margin-left: 15px; vertical-align: middle; }
+
+/* confirm */
+.gdlr-lms-confirm-wrapper{ position: fixed; z-index: 99999; top: 45%; left: 50%; width:320px; padding:40px 25px; 
+	background: #000; color:#fff; font-size: 12px; text-align: center; opacity: 0; filter: alpha(opacity=0); }
+.gdlr-lms-confirm-wrapper .head{ font-size: 13px; line-height: 25px; font-weight: bold; display: block; margin-bottom: 25px; }
+.gdlr-lms-confirm-wrapper .gdlr-lms-button{ margin: 0px 20px; }
+
+/* input */
+.gdlr-lms-meta-option input[type="text"].gdl-text-input{ vertical-align: middle;
+	width: 201px; padding: 4px; background-color: #ffffff; color: #555555;
+	border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; 
+	box-shadow: none; -webkit-box-shadow: none; -moz-box-shadow: none; }
+.gdlr-lms-meta-option input[type="text"].gdl-text-input.small{ width: 50px; }
+.gdlr-lms-meta-option input[type="text"].gdl-text-input.medium{ width: 130px; }
+.gdlr-lms-meta-option input[type="text"].gdl-text-input.long{ width: 400px; }
+.gdlr-lms-meta-option.type-textarea{ padding-top: 5px; }
+.gdlr-lms-meta-option textarea{ vertical-align: text-top;
+	width: 201px; height: 100px; padding: 7px; background-color: #ffffff; color: #555555;
+	border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; 
+	box-shadow: none; -webkit-box-shadow: none; -moz-box-shadow: none; }
+.gdlr-lms-meta-option textarea.wp-editor-area{ height: 272px; width: 100%; }
+
+/* checkbox */
+.gdlr-lms-meta-option input[type="checkbox"]{ display: none; }
+.gdlr-lms-meta-option .checkbox-wrapper{ display: inline-block; }
+.gdlr-lms-meta-option .checkbox-appearance{ width: 82px; height: 28px; 
+	display: inline-block; text-indent: -999px;
+	background: url('../images/checkbox-switch-off.png'); }
+.gdlr-lms-meta-option .checkbox-appearance.enable{
+	background: url('../images/checkbox-switch-on.png'); }
+	
+/* combobox */
+.gdlr-lms-meta-option .gdlr-combobox-wrapper{ display: inline-block; width: 401px; height: 30px; 
+	vertical-align: middle; overflow: hidden; 
+	background-color: #fff; background-image: url('../images/combobox-arrow.png');
+	background-position: right center; background-repeat: no-repeat; border: 1px solid #dedede; 
+	border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;   }
+.gdlr-lms-meta-option .gdlr-combobox-wrapper select{ height: 30px; width: 429px; 
+	color: #555; padding: 6px 5px; margin: 0px 0px; line-height: 1; 
+	border: 0; border-radius: 0; background: transparent; -webkit-appearance: none; 
+	box-shadow: none; -webkit-box-shadow: none; -moz-box-shadow: none; }
+	
+/* course tab */
+.soccer-tab-title span{ padding: 10px 18px; display: inline-block; cursor: pointer; 
+	font-weight: bold; margin-right: 2px; color: #d1d1d1; background-color: #f9f9f9; 
+	transition: color 300ms; -moz-transition: color 300ms;
+	-o-transition: color 300ms; -webkit-transition: color 300ms; }
+.soccer-tab-title span.active{ color: #8d8d8d; background-color: #f1f1f1; cursor: default; }
+
+.soccer-tab-content-wrapper{ position: relative; overflow: hidden;  background-color: #f1f1f1; }
+.soccer-tab-content{ padding: 35px 30px 20px; position: absolute; 
+	z-index: 0; opacity: 0; filter: alpha(opacity=0); left: 0px; right: 0px;
+	transition: none; -moz-transition: none; -o-transition: none; -webkit-transition: none; }
+.soccer-tab-content.active{ position: relative; z-index: 1; opacity: 1; filter: alpha(opacity=100); 
+	transition: opacity 300ms; -moz-transition: opacity 300ms;
+	-o-transition: opacity 300ms; -webkit-transition: opacity 300ms; }
+	
+/* upload */
+.gdlr-lms-meta-option .gdlr-upload-img-sample.blank{ display: none; }
+.gdlr-lms-meta-option .gdlr-upload-img-sample{ display: block; margin-top: 20px; max-width: 100px; }
+.gdlr-lms-meta-option .gdlr-upload-box-input{ margin-top: 20px; }
+.gdlr-lms-meta-option .gdlr-upload-box-button{ border: none; font-size: 11px; font-weight: bold; text-transform: uppercase;
+    padding: 6px 12px; margin-left: 10px; margin-top: 20px; vertical-align: top; background: #2EA2CC; color: #fff; line-height: 1 !important; }
+.gdlr-lms-meta-option .gdlr-upload-box-button:focus{ outline: none; }
+
+.gdlr-lms-meta-option.team-flag-wrapper { margin-bottom: 40px; }

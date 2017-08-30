@@ -1,0 +1,31 @@
+{{#uc_each plugins}}
+<div class="row update-item updates-plugin-update updates-update" data-entity="plugin" data-plugin-info="{{as_json}}" data-plugin-file="{{update.plugin}}">
+	<div class="col-md-5 col-sm-5 col-xs-12">
+		<div>
+			<span class="plugin-name">
+				<span class="label label-warning row_data plugins">{{udclion.updates.plugin}}</span>
+				<a href="{{plugin_uri}}">{{name}}</a> ({{version}})
+			</span>
+		</div>
+		{{#unless update.plugin}}
+		<div class="update-unavailable">
+			{{udclion.updates.update_unavailable}}
+		</div>
+		{{/unless}}
+	</div>
+	<div class="col-md-3 col-sm-3 hidden-xs-down">
+		<div class="text-xs-left text-md-right">
+			<div class="row_label">{{udclion.updates.version}}</div>
+			<span class="plugin-version">{{udclion.updates.update_to}} {{update.new_version}}</span>
+		</div>
+	</div>
+	<div class="col-md-4 col-sm-4 col-xs-12 text-xs-left text-md-right">
+		<button type="button" class="update-go btn btn-sm btn-primary" {{ifempty update.plugin 'disabled data-unavailable="1"'}}>{{udclion.updates.queue_update}}</button>
+		<button type="button" class="update-in-progress btn btn-sm btn-primary" {{ifempty update.plugin 'disabled data-unavailable="1"'}}>{{udclion.updates.queued_for_update}}</button>
+
+		<button type="button" class="btn btn-sm btn-secondary update-info" title="{{udclion.updates.update_info}}">
+			<span class="dashicons dashicons-info">	</span>
+		</button>
+	</div>
+</div>
+{{/uc_each}}

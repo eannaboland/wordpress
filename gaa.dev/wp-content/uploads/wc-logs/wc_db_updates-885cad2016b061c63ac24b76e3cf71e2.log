@@ -1,0 +1,7 @@
+2017-08-17T14:45:21+00:00 INFO Queuing 3.1.2 - wc_update_312_shop_manager_capabilities
+2017-08-17T14:45:21+00:00 INFO Queuing 3.1.2 - wc_update_312_db_version
+2017-08-17T14:45:23+00:00 INFO Running wc_update_312_shop_manager_capabilities callback
+2017-08-17T14:45:23+00:00 INFO Finished wc_update_312_shop_manager_capabilities callback
+2017-08-17T14:45:23+00:00 INFO Running wc_update_312_db_version callback
+2017-08-17T14:45:23+00:00 INFO Finished wc_update_312_db_version callback
+2017-08-17T14:45:23+00:00 INFO Data update complete

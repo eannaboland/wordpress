@@ -1,0 +1,785 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Real Soccer\n"
+"POT-Creation-Date: 2014-09-12 12:54+0700\n"
+"PO-Revision-Date: 2014-09-12 12:54+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: C:\\AppServ\\www\\realsoccer\\wp-content\\plugins"
+"\\goodlayers-soccer\\\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: single-player.php:57 framework/player-option.php:183
+msgid "Player Stats"
+msgstr ""
+
+#: single-player.php:59 framework/player-option.php:340
+msgid "Biography"
+msgstr ""
+
+#: single-player.php:61 framework/player-option.php:348
+msgid "Gallery"
+msgstr ""
+
+#: single-player.php:117 framework/player-option.php:186
+msgid "General"
+msgstr ""
+
+#: single-player.php:119
+msgid "Defence & Discipline"
+msgstr ""
+
+#: single-player.php:121 framework/player-option.php:281
+msgid "Attack"
+msgstr ""
+
+#: framework/admin-option.php:19
+msgid "Goodlayers Sidebar Option"
+msgstr ""
+
+#: framework/admin-option.php:29
+msgid "Sidebar Layout"
+msgstr ""
+
+#: framework/admin-option.php:43
+msgid "Left Sidebar"
+msgstr ""
+
+#: framework/admin-option.php:49
+msgid "Right Sidebar"
+msgstr ""
+
+#: framework/admin-option.php:70
+msgid "Soccer Style"
+msgstr ""
+
+#: framework/admin-option.php:73
+msgid "Single Player Title Background"
+msgstr ""
+
+#: framework/admin-option.php:79
+msgid "Player Sidebar Template"
+msgstr ""
+
+#: framework/admin-option.php:90
+msgid "Player Sidebar Left"
+msgstr ""
+
+#: framework/admin-option.php:96
+msgid "Player Sidebar Right"
+msgstr ""
+
+#: framework/admin-option.php:102
+msgid "Single Fixture & Result Title Background"
+msgstr ""
+
+#: framework/admin-option.php:108
+msgid "Fixtures & Results Sidebar Template"
+msgstr ""
+
+#: framework/admin-option.php:119
+msgid "Fixtures & Results Sidebar Left"
+msgstr ""
+
+#: framework/admin-option.php:125
+msgid "Fixtures & Results Sidebar Right"
+msgstr ""
+
+#: framework/fixtures-results-option.php:12
+#: framework/fixtures-results-option.php:24
+#: framework/fixtures-results-option.php:202
+msgid "Fixtures & Results"
+msgstr ""
+
+#: framework/fixtures-results-option.php:13
+msgid "Fixture & Result"
+msgstr ""
+
+#: framework/fixtures-results-option.php:14
+#: framework/league-table-option.php:14 framework/player-option.php:14
+msgid "Add New"
+msgstr ""
+
+#: framework/fixtures-results-option.php:15
+msgid "Add New fixture & result"
+msgstr ""
+
+#: framework/fixtures-results-option.php:16
+msgid "Edit fixture & result"
+msgstr ""
+
+#: framework/fixtures-results-option.php:17
+msgid "New fixture & result"
+msgstr ""
+
+#: framework/fixtures-results-option.php:18
+msgid "All fixtures & results"
+msgstr ""
+
+#: framework/fixtures-results-option.php:19
+msgid "View fixture & result"
+msgstr ""
+
+#: framework/fixtures-results-option.php:20
+msgid "Search fixtures & results"
+msgstr ""
+
+#: framework/fixtures-results-option.php:21
+msgid "No fixtures & results found"
+msgstr ""
+
+#: framework/fixtures-results-option.php:22
+msgid "No fixtures & results found in Trash"
+msgstr ""
+
+#: framework/fixtures-results-option.php:43
+msgid "Result Categories"
+msgstr ""
+
+#: framework/fixtures-results-option.php:44
+msgid "Result Category"
+msgstr ""
+
+#: framework/fixtures-results-option.php:80
+msgid "Fixture & Result Option"
+msgstr ""
+
+#: framework/fixtures-results-option.php:95
+msgid "Home Team"
+msgstr ""
+
+#: framework/fixtures-results-option.php:100
+#: framework/fixtures-results-option.php:112
+msgid "Goal"
+msgstr ""
+
+#: framework/fixtures-results-option.php:104
+#: framework/fixtures-results-option.php:116
+msgid "* Leave this field blank if the match hasn't start yet."
+msgstr ""
+
+#: framework/fixtures-results-option.php:107
+msgid "Away Team"
+msgstr ""
+
+#: framework/fixtures-results-option.php:119
+msgid "Date Of Match"
+msgstr ""
+
+#: framework/fixtures-results-option.php:123
+msgid "Match Time"
+msgstr ""
+
+#: framework/fixtures-results-option.php:125
+msgid "* have to be in HH:MM format"
+msgstr ""
+
+#: framework/fixtures-results-option.php:128
+msgid "Location"
+msgstr ""
+
+#: framework/fixtures-results-option.php:136
+msgid "Fixtures & Result"
+msgstr ""
+
+#: framework/fixtures-results-option.php:144
+#: include/fixture-result-item.php:208
+msgid "Match Report"
+msgstr ""
+
+#: framework/fixtures-results-option.php:178
+msgid "Upcoming Match"
+msgstr ""
+
+#: framework/fixtures-results-option.php:182
+#: framework/fixtures-results-option.php:206
+#: framework/league-table-option.php:183 framework/player-option.php:418
+msgid "Category"
+msgstr ""
+
+#: framework/fixtures-results-option.php:185
+#: framework/fixtures-results-option.php:209
+#: framework/fixtures-results-option.php:218
+#: framework/league-table-option.php:186 framework/league-table-option.php:195
+#: framework/player-option.php:421
+msgid ""
+"You can use Ctrl/Command button to select multiple categories or remove the "
+"selected category. <br><br> Leave this field blank to select all categories."
+msgstr ""
+
+#: framework/fixtures-results-option.php:188
+msgid "Background Image"
+msgstr ""
+
+#: framework/fixtures-results-option.php:190
+msgid "Upload"
+msgstr ""
+
+#: framework/fixtures-results-option.php:193
+#: framework/fixtures-results-option.php:256
+#: framework/league-table-option.php:215 framework/player-option.php:490
+msgid "Margin Bottom"
+msgstr ""
+
+#: framework/fixtures-results-option.php:196
+#: framework/fixtures-results-option.php:259
+#: framework/league-table-option.php:218 framework/player-option.php:493
+msgid "Spaces after ending of this item"
+msgstr ""
+
+#: framework/fixtures-results-option.php:212
+msgid "Item Style"
+msgstr ""
+
+#: framework/fixtures-results-option.php:215
+#: framework/league-table-option.php:192
+msgid "Full"
+msgstr ""
+
+#: framework/fixtures-results-option.php:216
+#: framework/league-table-option.php:193
+msgid "Summary"
+msgstr ""
+
+#: framework/fixtures-results-option.php:221
+msgid "View All Fixtures Text"
+msgstr ""
+
+#: framework/fixtures-results-option.php:223
+msgid "View All Fixtures"
+msgstr ""
+
+#: framework/fixtures-results-option.php:227
+msgid "View All Fixtures Link"
+msgstr ""
+
+#: framework/fixtures-results-option.php:232 framework/player-option.php:432
+msgid "Num Fetch"
+msgstr ""
+
+#: framework/fixtures-results-option.php:235
+msgid "Specify the number of records you want to pull out."
+msgstr ""
+
+#: framework/fixtures-results-option.php:238
+msgid "Enable Category Filter"
+msgstr ""
+
+#: framework/fixtures-results-option.php:241
+msgid ""
+"*** You have to select only 1 ( or none ) category when enable this option"
+msgstr ""
+
+#: framework/fixtures-results-option.php:244 framework/player-option.php:478
+msgid "Order"
+msgstr ""
+
+#: framework/fixtures-results-option.php:247 framework/player-option.php:481
+msgid "Descending Order"
+msgstr ""
+
+#: framework/fixtures-results-option.php:248 framework/player-option.php:482
+msgid "Ascending Order"
+msgstr ""
+
+#: framework/fixtures-results-option.php:252 framework/player-option.php:486
+msgid "Enable Pagination"
+msgstr ""
+
+#: framework/league-table-option.php:12 framework/league-table-option.php:13
+#: framework/league-table-option.php:179
+msgid "League Table"
+msgstr ""
+
+#: framework/league-table-option.php:15
+msgid "Add New league table"
+msgstr ""
+
+#: framework/league-table-option.php:16
+msgid "Edit league table"
+msgstr ""
+
+#: framework/league-table-option.php:17
+msgid "New league table"
+msgstr ""
+
+#: framework/league-table-option.php:18
+msgid "All league tables"
+msgstr ""
+
+#: framework/league-table-option.php:19
+msgid "View league table"
+msgstr ""
+
+#: framework/league-table-option.php:20
+msgid "Search league tables"
+msgstr ""
+
+#: framework/league-table-option.php:21
+msgid "No league table found"
+msgstr ""
+
+#: framework/league-table-option.php:22
+msgid "No league table found in Trash"
+msgstr ""
+
+#: framework/league-table-option.php:24
+msgid "League Tables"
+msgstr ""
+
+#: framework/league-table-option.php:45
+msgid "League Categories"
+msgstr ""
+
+#: framework/league-table-option.php:46
+msgid "League Category"
+msgstr ""
+
+#: framework/league-table-option.php:82
+msgid "League Table Option"
+msgstr ""
+
+#: framework/league-table-option.php:101
+msgid "Wins"
+msgstr ""
+
+#: framework/league-table-option.php:106
+msgid "Draws"
+msgstr ""
+
+#: framework/league-table-option.php:111
+msgid "Loses"
+msgstr ""
+
+#: framework/league-table-option.php:116
+msgid "Goals Scored"
+msgstr ""
+
+#: framework/league-table-option.php:121
+msgid "Goals Conceded"
+msgstr ""
+
+#: framework/league-table-option.php:131 include/league-table-item.php:100
+msgid "Home"
+msgstr ""
+
+#: framework/league-table-option.php:138
+msgid "Always show in League Table (summary)"
+msgstr ""
+
+#: framework/league-table-option.php:147 include/league-table-item.php:101
+msgid "Away"
+msgstr ""
+
+#: framework/league-table-option.php:189
+msgid "Table Style"
+msgstr ""
+
+#: framework/league-table-option.php:198
+msgid "Display Number"
+msgstr ""
+
+#: framework/league-table-option.php:204
+msgid "View Full Table Text"
+msgstr ""
+
+#: framework/league-table-option.php:206
+msgid "View Full Table"
+msgstr ""
+
+#: framework/league-table-option.php:210
+msgid "View Full Table Link"
+msgstr ""
+
+#: framework/player-option.php:12 framework/player-option.php:24
+msgid "Players"
+msgstr ""
+
+#: framework/player-option.php:13 framework/player-option.php:414
+msgid "Player"
+msgstr ""
+
+#: framework/player-option.php:15
+msgid "Add New player"
+msgstr ""
+
+#: framework/player-option.php:16
+msgid "Edit player"
+msgstr ""
+
+#: framework/player-option.php:17
+msgid "New player"
+msgstr ""
+
+#: framework/player-option.php:18
+msgid "All players"
+msgstr ""
+
+#: framework/player-option.php:19
+msgid "View player"
+msgstr ""
+
+#: framework/player-option.php:20
+msgid "Search players"
+msgstr ""
+
+#: framework/player-option.php:21
+msgid "No players found"
+msgstr ""
+
+#: framework/player-option.php:22
+msgid "No players found in Trash"
+msgstr ""
+
+#: framework/player-option.php:44
+msgid "Player Categories"
+msgstr ""
+
+#: framework/player-option.php:45
+msgid "Player Category"
+msgstr ""
+
+#: framework/player-option.php:81
+msgid "Player Option"
+msgstr ""
+
+#: framework/player-option.php:96
+msgid "Player Info"
+msgstr ""
+
+#: framework/player-option.php:99
+msgid "General Info"
+msgstr ""
+
+#: framework/player-option.php:103
+msgid "First Name"
+msgstr ""
+
+#: framework/player-option.php:107
+msgid "Last Name"
+msgstr ""
+
+#: framework/player-option.php:111
+msgid "Squad"
+msgstr ""
+
+#: framework/player-option.php:115 include/player-item.php:25
+msgid "Position"
+msgstr ""
+
+#: framework/player-option.php:119
+msgid "Position (abbreviation)"
+msgstr ""
+
+#: framework/player-option.php:123 include/player-item.php:23
+msgid "Nationality"
+msgstr ""
+
+#: framework/player-option.php:127 include/player-item.php:24
+msgid "Date Of Birth"
+msgstr ""
+
+#: framework/player-option.php:131
+msgid "Hieght"
+msgstr ""
+
+#: framework/player-option.php:135 include/player-item.php:22
+msgid "Weight"
+msgstr ""
+
+#: framework/player-option.php:139 include/player-item.php:26
+msgid "Games Played"
+msgstr ""
+
+#: framework/player-option.php:143 include/player-item.php:27
+msgid "Minutes Played"
+msgstr ""
+
+#: framework/player-option.php:147 include/player-item.php:28
+msgid "Starts"
+msgstr ""
+
+#: framework/player-option.php:151 include/player-item.php:29
+msgid "Substitution On"
+msgstr ""
+
+#: framework/player-option.php:155 include/player-item.php:30
+msgid "Substitution Off"
+msgstr ""
+
+#: framework/player-option.php:160
+msgid "Social Media"
+msgstr ""
+
+#: framework/player-option.php:165
+msgid "Facebook"
+msgstr ""
+
+#: framework/player-option.php:169
+msgid "Twitter"
+msgstr ""
+
+#: framework/player-option.php:173
+msgid "Youtube"
+msgstr ""
+
+#: framework/player-option.php:177
+msgid "Instagram"
+msgstr ""
+
+#: framework/player-option.php:190 include/player-item.php:32
+msgid "Passes"
+msgstr ""
+
+#: framework/player-option.php:194 include/player-item.php:33
+msgid "Passing Accuracy"
+msgstr ""
+
+#: framework/player-option.php:198 include/player-item.php:34
+msgid "Passing Accuracy opp. Half"
+msgstr ""
+
+#: framework/player-option.php:202 include/player-item.php:35
+msgid "Duels Won"
+msgstr ""
+
+#: framework/player-option.php:206 include/player-item.php:36
+msgid "Duels Lost"
+msgstr ""
+
+#: framework/player-option.php:210 include/player-item.php:37
+msgid "Duels Won (%)"
+msgstr ""
+
+#: framework/player-option.php:214 include/player-item.php:38
+msgid "Aerial Duels Won"
+msgstr ""
+
+#: framework/player-option.php:218 include/player-item.php:39
+msgid "Aerial Duels Lost"
+msgstr ""
+
+#: framework/player-option.php:222 include/player-item.php:40
+msgid "Aerial Duels Won (%)"
+msgstr ""
+
+#: framework/player-option.php:226 include/player-item.php:41
+msgid "Recoveries"
+msgstr ""
+
+#: framework/player-option.php:231
+msgid "Defence & Descipline"
+msgstr ""
+
+#: framework/player-option.php:236 include/player-item.php:43
+msgid "Tackles Won"
+msgstr ""
+
+#: framework/player-option.php:240 include/player-item.php:44
+msgid "Tackles Lost"
+msgstr ""
+
+#: framework/player-option.php:244 include/player-item.php:45
+msgid "Tackles Won (%)"
+msgstr ""
+
+#: framework/player-option.php:248 include/player-item.php:46
+msgid "Clearances"
+msgstr ""
+
+#: framework/player-option.php:252 include/player-item.php:47
+msgid "Blocks"
+msgstr ""
+
+#: framework/player-option.php:256 include/player-item.php:48
+msgid "Interceptions"
+msgstr ""
+
+#: framework/player-option.php:260 include/player-item.php:49
+msgid "Penalties Conceded"
+msgstr ""
+
+#: framework/player-option.php:264 include/player-item.php:50
+msgid "Fouls Won"
+msgstr ""
+
+#: framework/player-option.php:268 include/player-item.php:51
+msgid "Fouls Conceded"
+msgstr ""
+
+#: framework/player-option.php:272 include/player-item.php:52
+msgid "Yellow Cards"
+msgstr ""
+
+#: framework/player-option.php:276 include/player-item.php:53
+msgid "Red Cards"
+msgstr ""
+
+#: framework/player-option.php:286 include/player-item.php:55
+msgid "Goals"
+msgstr ""
+
+#: framework/player-option.php:290 include/player-item.php:56
+msgid "Penalty Goals"
+msgstr ""
+
+#: framework/player-option.php:294 include/player-item.php:57
+msgid "Minutes Per Goal"
+msgstr ""
+
+#: framework/player-option.php:298 include/player-item.php:58
+msgid "Total Shots On Target"
+msgstr ""
+
+#: framework/player-option.php:302 include/player-item.php:59
+msgid "Total Shots Off Target"
+msgstr ""
+
+#: framework/player-option.php:306 include/player-item.php:60
+msgid "Shooting Accuracy"
+msgstr ""
+
+#: framework/player-option.php:310 include/player-item.php:61
+msgid "Successful Crosses"
+msgstr ""
+
+#: framework/player-option.php:314 include/player-item.php:62
+msgid "Unsuccessful Crosses"
+msgstr ""
+
+#: framework/player-option.php:318 include/player-item.php:63
+msgid "Successful Crosses (%)"
+msgstr ""
+
+#: framework/player-option.php:322 include/player-item.php:64
+msgid "Assists"
+msgstr ""
+
+#: framework/player-option.php:326 include/player-item.php:65
+msgid "Chances Created"
+msgstr ""
+
+#: framework/player-option.php:330 include/player-item.php:66
+msgid "Penalties Won"
+msgstr ""
+
+#: framework/player-option.php:334 include/player-item.php:67
+msgid "Offsides"
+msgstr ""
+
+#: framework/player-option.php:424
+msgid "Player Style"
+msgstr ""
+
+#: framework/player-option.php:427
+msgid "Classic Style"
+msgstr ""
+
+#: framework/player-option.php:428
+msgid "Modern Style"
+msgstr ""
+
+#: framework/player-option.php:435
+msgid "Specify the number of player items you want to pull out."
+msgstr ""
+
+#: framework/player-option.php:438
+msgid "Player Item Size"
+msgstr ""
+
+#: framework/player-option.php:449
+msgid "Player Layout Order"
+msgstr ""
+
+#: framework/player-option.php:452
+msgid "FitRows ( Order items by row )"
+msgstr ""
+
+#: framework/player-option.php:453
+msgid "Carousel ( Only For Grid And Modern Style )"
+msgstr ""
+
+#: framework/player-option.php:457
+msgid "Enable Player Filter"
+msgstr ""
+
+#: framework/player-option.php:460
+msgid ""
+"*** You have to select only 1 ( or none ) player category when enable this "
+"option"
+msgstr ""
+
+#: framework/player-option.php:463
+msgid "Thumbnail Size"
+msgstr ""
+
+#: framework/player-option.php:466
+msgid "Only effects to <strong>standard and gallery post format</strong>"
+msgstr ""
+
+#: framework/player-option.php:469
+msgid "Order By"
+msgstr ""
+
+#: framework/player-option.php:472
+msgid "Publish Date"
+msgstr ""
+
+#: framework/player-option.php:473
+msgid "Title"
+msgstr ""
+
+#: framework/player-option.php:474
+msgid "Random"
+msgstr ""
+
+#: include/fixture-result-item.php:85 include/player-item.php:130
+msgid "All"
+msgstr ""
+
+#: include/fixture-result-item.php:197 include/fixture-result-item.php:236
+#: include/fixture-result-item.php:298
+msgid "VS"
+msgstr ""
+
+#: include/league-table-item.php:102
+msgid "Overall"
+msgstr ""
+
+#: include/league-table-item.php:105
+msgid "Pos"
+msgstr ""
+
+#: include/league-table-item.php:105 include/league-table-item.php:131
+msgid "Team"
+msgstr ""
+
+#: include/player-item.php:21
+msgid "Height"
+msgstr ""
+
+#: include/utility.php:38
+msgid "Learn More"
+msgstr ""
+
+#: include/utility.php:55
+msgid "None"
+msgstr ""
+
+#: include/utility.php:133
+msgid "&lsaquo; Previous"
+msgstr ""
+
+#: include/utility.php:134
+msgid "Next &rsaquo;"
+msgstr ""
+
+#: include/utility.php:155
+msgid "full size (Original Images)"
+msgstr ""

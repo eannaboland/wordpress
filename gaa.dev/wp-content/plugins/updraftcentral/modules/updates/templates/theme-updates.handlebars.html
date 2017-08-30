@@ -1,0 +1,31 @@
+{{#uc_each themes}}
+<div class="row update-item updates-theme-update updates-update" data-entity="theme" data-theme="{{update.theme}}" data-theme-info="{{as_json}}">
+	<div class="col-md-5 col-sm-5 col-xs-12">
+		<div>
+			<span class="theme-name">
+				<span class="label label-info row_data themes">{{udclion.updates.theme}}</span>
+				<a href="{{update.url}}">{{name}}</a> ({{version}})
+			</span>
+		</div>
+		{{#unless update.theme}}
+		<div class="update-unavailable">
+			{{udclion.updates.update_unavailable}}
+		</div>
+		{{/unless}}
+	</div>
+	<div class="col-md-3 col-sm-3 hidden-xs-down">
+		<div class="text-xs-left text-md-right">
+			<div class="row_label">{{udclion.updates.version}}</div>
+			<span class="theme-version">{{udclion.updates.update_to}} {{update.new_version}}</span>
+		</div>
+	</div>
+	<div class="col-md-4 col-sm-4 col-xs-12 text-xs-left text-md-right">
+		<button type="button" class="update-go btn btn-sm btn-primary" {{ifempty update.theme 'disabled data-unavailable="1"'}}>{{udclion.updates.queue_update}}</button>
+		<button type="button" class="update-in-progress btn btn-sm btn-primary" {{ifempty update.theme 'disabled data-unavailable="1"'}}>{{udclion.updates.queued_for_update}}</button>
+
+		<button type="button" class="btn btn-sm btn-secondary update-info" title="{{udclion.updates.update_info}}">
+			<span class="dashicons dashicons-info">	</span>
+		</button>
+	</div>
+</div>
+{{/uc_each}}
