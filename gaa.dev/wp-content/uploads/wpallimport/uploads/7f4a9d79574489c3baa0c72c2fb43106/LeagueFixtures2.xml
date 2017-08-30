@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Lucan Sarsfields ]]></home>
+		<away><![CDATA[Castleknock ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[12th Lock]]></location>
+		<dateofmatch><![CDATA[12/03/2017]]></dateofmatch>
+		<matchtime><![CDATA[10:30]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Setanta ]]></home>
+		<away><![CDATA[Whitehall Colmcille ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Club Teach Setanta ]]></location>
+		<dateofmatch><![CDATA[12/03/2017]]></dateofmatch>
+		<matchtime><![CDATA[10:30]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Faughs ]]></home>
+		<away><![CDATA[Naomh Barrog ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Tymon North]]></location>
+		<dateofmatch><![CDATA[12/03/2017]]></dateofmatch>
+		<matchtime><![CDATA[10:30]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Kilmacud Crokes ]]></home>
+		<away><![CDATA[Ballinteer St. Johns ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Silver Park]]></location>
+		<dateofmatch><![CDATA[12/03/2017]]></dateofmatch>
+		<matchtime><![CDATA[10:30]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[St Oliver Plunketts ER ]]></home>
+		<away><![CDATA[Naomh Olaf ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Martin Savage Park]]></location>
+		<dateofmatch><![CDATA[12/03/2017]]></dateofmatch>
+		<matchtime><![CDATA[10:30]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Raheny ]]></home>
+		<away><![CDATA[St. Patricks Palmerstown ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[St Annes Park]]></location>
+		<dateofmatch><![CDATA[12/03/2017]]></dateofmatch>
+		<matchtime><![CDATA[10:30]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Castleknock ]]></home>
+		<away><![CDATA[Setanta ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Somerton Park]]></location>
+		<dateofmatch><![CDATA[26/03/2017]]></dateofmatch>
+		<matchtime><![CDATA[10:30]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Naomh Olaf ]]></home>
+		<away><![CDATA[Raheny ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Pairc Ui Bhriain]]></location>
+		<dateofmatch><![CDATA[26/03/2017]]></dateofmatch>
+		<matchtime><![CDATA[10:30]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Ballinteer St. Johns ]]></home>
+		<away><![CDATA[St Oliver Plunketts ER ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Marley Park]]></location>
+		<dateofmatch><![CDATA[26/03/2017]]></dateofmatch>
+		<matchtime><![CDATA[10:30]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Naomh Barrog ]]></home>
+		<away><![CDATA[Kilmacud Crokes ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Pairc Barrog]]></location>
+		<dateofmatch><![CDATA[26/03/2017]]></dateofmatch>
+		<matchtime><![CDATA[10:30]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Whitehall Colmcille ]]></home>
+		<away><![CDATA[Faughs ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Cloghran]]></location>
+		<dateofmatch><![CDATA[26/03/2017]]></dateofmatch>
+		<matchtime><![CDATA[10:30]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[St. Patricks Palmerstown ]]></home>
+		<away><![CDATA[Lucan Sarsfields ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Glenauline Park]]></location>
+		<dateofmatch><![CDATA[26/03/2017]]></dateofmatch>
+		<matchtime><![CDATA[10:30]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Setanta ]]></home>
+		<away><![CDATA[Lucan Sarsfields ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Club Teach Setanta ]]></location>
+		<dateofmatch><![CDATA[08/04/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:00]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Faughs ]]></home>
+		<away><![CDATA[Castleknock ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Tymon North]]></location>
+		<dateofmatch><![CDATA[08/04/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:00]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Kilmacud Crokes ]]></home>
+		<away><![CDATA[Whitehall Colmcille ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Silver Park]]></location>
+		<dateofmatch><![CDATA[08/04/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:00]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[St Oliver Plunketts ER ]]></home>
+		<away><![CDATA[Naomh Barrog ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Martin Savage Park]]></location>
+		<dateofmatch><![CDATA[08/04/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:00]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Raheny ]]></home>
+		<away><![CDATA[Ballinteer St. Johns ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[St Annes Park]]></location>
+		<dateofmatch><![CDATA[08/04/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:00]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Naomh Olaf ]]></home>
+		<away><![CDATA[St. Patricks Palmerstown ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Pairc Ui Bhriain]]></location>
+		<dateofmatch><![CDATA[08/04/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:00]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Castleknock ]]></home>
+		<away><![CDATA[Kilmacud Crokes ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Somerton Park]]></location>
+		<dateofmatch><![CDATA[20/05/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:30]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Lucan Sarsfields ]]></home>
+		<away><![CDATA[Faughs ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[12th Lock]]></location>
+		<dateofmatch><![CDATA[20/05/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:30]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Ballinteer St. Johns ]]></home>
+		<away><![CDATA[Naomh Olaf ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Marley Park]]></location>
+		<dateofmatch><![CDATA[20/05/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:30]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Naomh Barrog ]]></home>
+		<away><![CDATA[Raheny ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Pairc Barrog]]></location>
+		<dateofmatch><![CDATA[20/05/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:30]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Whitehall Colmcille ]]></home>
+		<away><![CDATA[St Oliver Plunketts ER ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Cloghran]]></location>
+		<dateofmatch><![CDATA[20/05/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:30]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[St. Patricks Palmerstown ]]></home>
+		<away><![CDATA[Setanta ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Glenauline Park]]></location>
+		<dateofmatch><![CDATA[20/05/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:30]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Faughs ]]></home>
+		<away><![CDATA[Setanta ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Tymon North]]></location>
+		<dateofmatch><![CDATA[10/06/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:30]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Kilmacud Crokes ]]></home>
+		<away><![CDATA[Lucan Sarsfields ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Silver Park]]></location>
+		<dateofmatch><![CDATA[10/06/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:30]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[St Oliver Plunketts ER ]]></home>
+		<away><![CDATA[Castleknock ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Martin Savage Park]]></location>
+		<dateofmatch><![CDATA[10/06/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:30]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Raheny ]]></home>
+		<away><![CDATA[Whitehall Colmcille ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[St Annes Park]]></location>
+		<dateofmatch><![CDATA[10/06/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:30]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Naomh Olaf ]]></home>
+		<away><![CDATA[Naomh Barrog ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Pairc Ui Bhriain]]></location>
+		<dateofmatch><![CDATA[10/06/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:30]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Ballinteer St. Johns ]]></home>
+		<away><![CDATA[St. Patricks Palmerstown ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Marley Park]]></location>
+		<dateofmatch><![CDATA[10/06/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:30]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Castleknock ]]></home>
+		<away><![CDATA[Raheny ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Somerton Park]]></location>
+		<dateofmatch><![CDATA[24/06/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:30]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Lucan Sarsfields ]]></home>
+		<away><![CDATA[St Oliver Plunketts ER ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[12th Lock]]></location>
+		<dateofmatch><![CDATA[24/06/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:30]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Setanta ]]></home>
+		<away><![CDATA[Kilmacud Crokes ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Club Teach Setanta ]]></location>
+		<dateofmatch><![CDATA[24/06/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:30]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Naomh Barrog ]]></home>
+		<away><![CDATA[Ballinteer St. Johns ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Pairc Barrog]]></location>
+		<dateofmatch><![CDATA[24/06/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:30]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Whitehall Colmcille ]]></home>
+		<away><![CDATA[Naomh Olaf ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Cloghran]]></location>
+		<dateofmatch><![CDATA[24/06/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:30]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[St. Patricks Palmerstown ]]></home>
+		<away><![CDATA[Faughs ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Glenauline Park]]></location>
+		<dateofmatch><![CDATA[24/06/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:30]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Kilmacud Crokes ]]></home>
+		<away><![CDATA[Faughs ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Silver Park]]></location>
+		<dateofmatch><![CDATA[08/07/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:30]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[St Oliver Plunketts ER ]]></home>
+		<away><![CDATA[Setanta ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Martin Savage Park]]></location>
+		<dateofmatch><![CDATA[08/07/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:30]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Raheny ]]></home>
+		<away><![CDATA[Lucan Sarsfields ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[St Annes Park]]></location>
+		<dateofmatch><![CDATA[08/07/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:30]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Naomh Olaf ]]></home>
+		<away><![CDATA[Castleknock ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Pairc Ui Bhriain]]></location>
+		<dateofmatch><![CDATA[08/07/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:30]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Ballinteer St. Johns ]]></home>
+		<away><![CDATA[Whitehall Colmcille ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Marley Park]]></location>
+		<dateofmatch><![CDATA[08/07/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:30]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Naomh Barrog ]]></home>
+		<away><![CDATA[St. Patricks Palmerstown ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Pairc Barrog]]></location>
+		<dateofmatch><![CDATA[08/07/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:30]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Castleknock ]]></home>
+		<away><![CDATA[Ballinteer St. Johns ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Somerton Park]]></location>
+		<dateofmatch><![CDATA[22/07/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:30]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Lucan Sarsfields ]]></home>
+		<away><![CDATA[Naomh Olaf ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[12th Lock]]></location>
+		<dateofmatch><![CDATA[22/07/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:30]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Setanta ]]></home>
+		<away><![CDATA[Raheny ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Club Teach Setanta ]]></location>
+		<dateofmatch><![CDATA[22/07/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:30]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Faughs ]]></home>
+		<away><![CDATA[St Oliver Plunketts ER ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Tymon North]]></location>
+		<dateofmatch><![CDATA[22/07/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:30]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Whitehall Colmcille ]]></home>
+		<away><![CDATA[Naomh Barrog ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Cloghran]]></location>
+		<dateofmatch><![CDATA[22/07/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:30]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[St. Patricks Palmerstown ]]></home>
+		<away><![CDATA[Kilmacud Crokes ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Glenauline Park]]></location>
+		<dateofmatch><![CDATA[22/07/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:30]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[St Oliver Plunketts ER ]]></home>
+		<away><![CDATA[Kilmacud Crokes ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Martin Savage Park]]></location>
+		<dateofmatch><![CDATA[19/08/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:30]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Raheny ]]></home>
+		<away><![CDATA[Faughs ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[St Annes Park]]></location>
+		<dateofmatch><![CDATA[19/08/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:30]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Naomh Olaf ]]></home>
+		<away><![CDATA[Setanta ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Pairc Ui Bhriain]]></location>
+		<dateofmatch><![CDATA[19/08/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:30]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Ballinteer St. Johns ]]></home>
+		<away><![CDATA[Lucan Sarsfields ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Marley Park]]></location>
+		<dateofmatch><![CDATA[19/08/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:30]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Naomh Barrog ]]></home>
+		<away><![CDATA[Castleknock ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Pairc Barrog]]></location>
+		<dateofmatch><![CDATA[19/08/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:30]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Whitehall Colmcille ]]></home>
+		<away><![CDATA[St. Patricks Palmerstown ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Cloghran]]></location>
+		<dateofmatch><![CDATA[19/08/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:30]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Castleknock ]]></home>
+		<away><![CDATA[Whitehall Colmcille ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Somerton Park]]></location>
+		<dateofmatch><![CDATA[02/09/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:00]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Lucan Sarsfields ]]></home>
+		<away><![CDATA[Naomh Barrog ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[12th Lock]]></location>
+		<dateofmatch><![CDATA[02/09/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:00]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Setanta ]]></home>
+		<away><![CDATA[Ballinteer St. Johns ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Club Teach Setanta ]]></location>
+		<dateofmatch><![CDATA[02/09/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:00]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Faughs ]]></home>
+		<away><![CDATA[Naomh Olaf ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Tymon North]]></location>
+		<dateofmatch><![CDATA[02/09/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:00]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Kilmacud Crokes ]]></home>
+		<away><![CDATA[Raheny ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Silver Park]]></location>
+		<dateofmatch><![CDATA[02/09/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:00]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[St. Patricks Palmerstown ]]></home>
+		<away><![CDATA[St Oliver Plunketts ER ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Glenauline Park]]></location>
+		<dateofmatch><![CDATA[02/09/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:00]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Raheny ]]></home>
+		<away><![CDATA[St Oliver Plunketts ER ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[St Annes Park]]></location>
+		<dateofmatch><![CDATA[16/09/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:00]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Naomh Olaf ]]></home>
+		<away><![CDATA[Kilmacud Crokes ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Pairc Ui Bhriain]]></location>
+		<dateofmatch><![CDATA[16/09/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:00]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Ballinteer St. Johns ]]></home>
+		<away><![CDATA[Faughs ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Marley Park]]></location>
+		<dateofmatch><![CDATA[16/09/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:00]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Naomh Barrog ]]></home>
+		<away><![CDATA[Setanta ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Pairc Barrog]]></location>
+		<dateofmatch><![CDATA[16/09/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:00]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[Whitehall Colmcille ]]></home>
+		<away><![CDATA[Lucan Sarsfields ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Cloghran]]></location>
+		<dateofmatch><![CDATA[16/09/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:00]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+	<node>
+		<competition><![CDATA[Adult Football League Division Two]]></competition>
+		<home><![CDATA[St. Patricks Palmerstown ]]></home>
+		<away><![CDATA[Castleknock ]]></away>
+		<referee><![CDATA[TBC]]></referee>
+		<location><![CDATA[Glenauline Park]]></location>
+		<dateofmatch><![CDATA[16/09/2017]]></dateofmatch>
+		<matchtime><![CDATA[18:00]]></matchtime>
+		<category><![CDATA[Senior Hurlers]]></category>
+	</node>
+</data>
