@@ -23,15 +23,17 @@ define( 'WP_ALLOW_MULTISITE', true );
 define('WP_HOME','http://gaa.dev');
 define('WP_SITEURL','http://gaa.dev');
 
+define( 'WP_MAX_MEMORY_LIMIT', '256M' );
+
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define('DB_NAME', 'local_test');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'wordpress');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'root');
+define('DB_PASSWORD', 'password');
 
 /** MySQL hostname */
 define('DB_HOST', '127.0.0.1:3306');
