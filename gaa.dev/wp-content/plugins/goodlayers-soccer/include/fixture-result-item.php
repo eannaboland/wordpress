@@ -38,6 +38,13 @@
 				$ret .= $match_options['location'];
 				$ret .= '</span>'; // match-result-info
 			}
+
+			if( !empty($match_options['referee']) ){
+                $ret .= '<span class="match-result-info">';
+                $ret .= '<span class="customicon-whistle"> </span>';
+                $ret .= $match_options['referee'];
+                $ret .= '</span>'; // match-result-info
+            }
 			$ret .= '</span>'; // match-result-info-wrapper
 		}
 		return $ret;
